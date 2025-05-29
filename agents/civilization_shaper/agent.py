@@ -65,7 +65,7 @@ generator = Agent(
     "    * Usa `create_fantasy_civilization` como guía estructural si es necesario, pero el contenido "
     "      y la inspiración deben ser tuyos, enriquecidos por la cosmología.\n"
     "5.  **Inscripción:** Usa `save_entity_file_tool(entity_type='civilizaciones', "
-    "    filename='UnNombreUnicoYDescriptivo.md', content='El texto completo...')`. Asegúrate de que la salida "
+    "    filename='UnNombreUnicoYDescriptivo.md', content='El texto completo...')`. Es obligatorio que se escriba en el fichero. Asegúrate de que la salida "
     "    esté en formato **Markdown** y siga la **ESTRUCTURA OBLIGATORIA**. ¡**Una sola civilización por fichero**!\n"
     "6.  **Informe:** Confirma la creación y el guardado, destacando cómo la cosmología ha influido "
     "    en sus creencias y sus principales conexiones con otras civilizaciones.\n\n"

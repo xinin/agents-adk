@@ -64,7 +64,7 @@ generator = Agent(
         "    `entity_type='cosmologia'`**. Por ejemplo: \n"
         "    `save_entity_file_tool(entity_type='cosmologia', filename='cosmologia_principal.md', content='El texto completo...')`.\n"
         "    Usa formato **Markdown** con títulos claros.\n"
-        "4.  **Informa:** Confirma que la cosmología ha sido generada/editada y guardada, "
+        "4.  **Informa:** Confirma que la cosmología ha sido generada/editada y guardada, es obligatorio que se escriba el fichero"
         "    incluyendo el mensaje de la herramienta.\n\n"
 
         "**Principios del Cosmólogo:**\n"
