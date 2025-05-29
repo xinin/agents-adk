@@ -1,0 +1,10 @@
+## Horda del Sol Desértico
+
+*   **Nombre:** Horda del Sol Desértico
+*   **Cultura:** Una sociedad nómada basada en un estricto código de honor guerrero y la creencia en la conquista como un camino hacia la grandeza. Valoran la valentía, la lealtad al clan y el respeto por los ancestros guerreros. Los desafíos y duelos son comunes para resolver disputas y probar el valor individual.
+*   **Ubicación:** El Gran Desierto de Zharak, un vasto desierto implacable.  Son nómadas, moviéndose constantemente a través de las dunas y oasis en busca de recursos y nuevas tierras para conquistar.
+*   **Gobierno:** Una jerarquía de clanes liderados por los guerreros más fuertes y honorables.  Un Gran Khan, elegido entre los líderes de clan, supervisa la horda en tiempos de guerra y dirige las conquistas. El poder se basa tanto en la fuerza como en el honor demostrado en batalla.
+*   **Militar:** Caballería pesada y ligera, expertos en la guerra en el desierto. Utilizan armas de acero y hueso, y son conocidos por sus tácticas de golpe y fuga, así como por su feroz determinación en la batalla. Los jinetes de bestias del desierto, como lagartos gigantes o escorpiones, son una unidad de élite temida.
+*   **Economía:** Basada en el pastoreo de animales del desierto, el comercio ocasional con asentamientos fronterizos y la conquista. Los botines de guerra son distribuidos entre los clanes según su contribución a la victoria.
+*   **Relaciones Exteriores:**  Constantemente en conflicto con las ciudades-estado del desierto y otras tribus nómadas. Ven al Imperio del Grifo Dorado como un objetivo rico y un desafío a su dominio del desierto.  Pueden comerciar esporádicamente con el Reino de Ámbar, pero desconfían de su cultura "civilizada".
+*   **Historia:**  Se dice que descienden de una antigua civilización guerrera que dominó el desierto hace siglos, antes de ser dispersada por un gran cataclismo.  Ahora, bajo el liderazgo del Gran Khan Bazhak "Mano de Fuego", la Horda del Sol Desértico busca reclamar su antigua gloria y conquistar todo el desierto, y más allá.  Han comenzado a atacar las fronteras del Imperio del Grifo Dorado con creciente audacia.
